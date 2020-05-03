@@ -1,0 +1,23 @@
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
